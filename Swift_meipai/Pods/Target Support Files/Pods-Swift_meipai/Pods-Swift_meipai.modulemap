@@ -1,0 +1,6 @@
+framework module Pods_Swift_meipai {
+  umbrella header "Pods-Swift_meipai-umbrella.h"
+
+  export *
+  module * { export * }
+}
