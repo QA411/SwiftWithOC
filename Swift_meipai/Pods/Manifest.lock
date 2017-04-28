@@ -1,0 +1,47 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - Alamofire (4.4.0)
+  - EGOCache (2.1.3)
+  - JSONModel (1.7.0)
+  - MBProgressHUD (1.0.0)
+  - MJRefresh (3.1.12)
+  - NSString+Ruby (1.1)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Alamofire
+  - EGOCache
+  - JSONModel
+  - MBProgressHUD
+  - MJRefresh
+  - NSString+Ruby
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  EGOCache: f0295dbe041156acabd39021354ad1045ee49e72
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  NSString+Ruby: e68b2d9408107888f3d82436b0d1cd24c66c4b5b
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 1b19a4df8649b1c84f9bd8692fc09c76c4223576
+
+COCOAPODS: 1.1.1
